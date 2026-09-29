@@ -1,4 +1,4 @@
-const myApi = '247eb6ca6ab2f20863e0b276209bce95'
+const myApi = '3e21794e9102387bcb009ac40441b663'
 const main = document.querySelector('main')
 const cityHover = document.getElementById('cityHover')
 const forcastSec = document.getElementById('forcast-sec')
