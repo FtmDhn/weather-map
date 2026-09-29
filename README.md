@@ -1,14 +1,14 @@
-# Weather Map
+# 🗺️ Weather Map
 
 > **Weather isn't a number in a list.  
-> It's a place you can point at.☁️**
+> It's a place you can point at.**
 
 Weather Map is an interactive, map-first weather app.  
 Instead of typing a city into a form and reading a wall of text, you **explore the world** and the weather comes to you.
 
 Hover over a city to see its name, click it to fly there, and watch a glass-style dashboard slide in with the current conditions and a 5-day forecast.
 
-## 💡 The Concept
+## The Concept
 
 Most weather apps start with a search box and end with a table.  
 This project flips that idea: **the map is the interface.**
@@ -17,7 +17,7 @@ The user doesn't just look up data; they travel to it. Every click on the map be
 
 > **The map is not a background — it is the navigation.**
 
-## 🧠 What I Practiced
+##  What I Practiced
 
 This project was my sandbox for working with real APIs and a real map engine. Key skills implemented:
 
@@ -29,9 +29,9 @@ This project was my sandbox for working with real APIs and a real map engine. Ke
 - **Time Zones:** Grouping forecast data by the *local* day of each city instead of the browser's time.
 - **Glassmorphism UI:** Blur, gradients, and soft borders with pure CSS.
 
-## 🎬 Ready to check the sky?
+##  Ready to check the sky?
 
-**Live Demo** → **[Click here to view the project online](https://your-live-demo-link.com)**
+**Live Demo** → **[Click here to view the project online](https://restaurant-landing-page-o8yq.vercel.app/)**
 
 **Preview**
 <br>
@@ -41,7 +41,7 @@ This project was my sandbox for working with real APIs and a real map engine. Ke
 
 
 
-## ✨ Features
+##  Features
 
 - **Click-to-Forecast:** Click any city, town, or village on the map to load its weather.
 - **Hover Tooltip:** City names appear next to your cursor as you move over the map.
@@ -52,7 +52,7 @@ This project was my sandbox for working with real APIs and a real map engine. Ke
 - **Auto Location:** Starts with your current position (with a fallback if you decline).
 - **Responsive Design:** Cards rearrange into a bottom panel on mobile screens.
 
-## 🛠️ Built With
+## Built With
 
 This project uses **Vanilla JavaScript** with no framework and no build step. Just open it and it runs.
 
@@ -102,7 +102,7 @@ const API_KEY = 'YOUR_API_KEY'
 - [ ] Save favorite cities
 - [ ] Move the API key behind a small server-side proxy
 
-## 👩‍💻 Developer
+## Developer
 
 This project was designed and built by:
 
