@@ -31,7 +31,7 @@ This project was my sandbox for working with real APIs and a real map engine. Ke
 
 ##  Ready to check the sky?
 
-**Live Demo** → **[Click here to view the project online](https://restaurant-landing-page-o8yq.vercel.app/)**
+**Live Demo** → **[Click here to view the project online]()**
 
 **Preview**
 <br>
