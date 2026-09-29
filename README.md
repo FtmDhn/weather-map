@@ -36,7 +36,10 @@ This project was my sandbox for working with real APIs and a real map engine. Ke
 **Preview**
 <br>
 
-<img width="1536" height="1024" alt="Weather Map Preview" src="path/to/your-preview-image.png" />
+<img width="1536" height="1024" alt="Image" src="https://github.com/user-attachments/assets/6490d523-6a23-4948-8d22-3278df7669cf" />
+
+
+
 
 ## ✨ Features
 
